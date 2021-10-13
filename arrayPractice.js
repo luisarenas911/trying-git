@@ -24,3 +24,5 @@ console.log(tenthPatient);
 console.log(patients[1])
 // - console.log the last patient from the array
 console.log(patients[patients.length-1])
+console.log(patients[patients.length-2])
+console.log(patients[patients.length-3])
